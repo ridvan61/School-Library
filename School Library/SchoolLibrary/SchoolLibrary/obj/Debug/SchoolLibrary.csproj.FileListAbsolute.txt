@@ -1,0 +1,12 @@
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.admin.resources
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.Form1.resources
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.Properties.Resources.resources
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe.config
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.exe
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
+C:\Users\oztur\source\repos\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.user.resources
